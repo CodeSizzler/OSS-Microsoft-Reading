@@ -1,0 +1,2 @@
+# OSS-Microsoft-Reading
+Welcome to the first three days of the OSS on Azure Workshop. In these three days, we will focus on Scenarios based cases studies, hands-on activities that develop proficiency in OSS on Azure like Various Linux Distributions, LAMP on Azure, Containers &amp; Dockers, Deploying and Scaling Applications on Azure and so on. These labs assume an introductory to intermediate knowledge of these services, and if this is not the case, then you should spend the time working through the pre-requisites.
